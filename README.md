@@ -85,8 +85,8 @@ I'm currently navigating the stormy waters of **multi-tenant systems**, building
 
 ## 📬 Message in a Bottle
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin)](https://www.linkedin.com/in/ghassen-mansouri/)  
-![Email](https://img.shields.io/badge/Email-8B89CC?&logo=protonmail&logoColor=white)](mailto:ghassen.mansouri@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin)](https://www.linkedin.com/in/ghassen-mansouri/)  
+[![Email](https://img.shields.io/badge/Email-8B89CC?&logo=protonmail&logoColor=white)](mailto:ghassen.mansouri@proton.me)
 
 ---
 
