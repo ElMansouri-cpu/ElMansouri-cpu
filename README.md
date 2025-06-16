@@ -1,5 +1,4 @@
 <!-- Profile README: ElMansouri-cpu -->
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ElMansouri-cpu" width="150" alt="Ghassen's avatar" />
 </p>
