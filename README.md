@@ -31,8 +31,8 @@ I'm deep in the trenches architecting a **multi-tenant warehouse order managemen
 
 ## ⚓ Professional Voyage
 
-### 🚀 Full-Stack Engineer — **Quantech Solution Partners**  
-*Tunis, Tunisia | 04/2023 – 02/2025*
+### 🚀 Full-Stack Engineer — **Big software corporation**  
+*Tunis, Tunisia | 04/2023 – present*
 
 - Developed an analytics platform with **NestJS**, **Next.js**, and **PostgreSQL**
 - Built real-time data pipelines using **Redis** and **WebSockets**
@@ -40,7 +40,7 @@ I'm deep in the trenches architecting a **multi-tenant warehouse order managemen
 - Managed CI/CD pipelines with **Docker Compose**, **GitHub Actions**, and **Portainer**
 
 ### 🏗️ Full-Stack Engineer — **NOMADZ**  
-*Megrine, Tunisia | 09/2021 – 03/2023*
+*Megrine, Tunisia | 09/2020 – 03/2023*
 
 - Created real estate dashboards using **React.js**, improving investor insight
 - Enhanced performance with optimized **Node.js/Express** APIs and **MongoDB**
