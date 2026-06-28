@@ -1,127 +1,203 @@
-<!-- Profile README: ElMansouri-cpu -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/ElMansouri-cpu" width="150" alt="Ghassen's avatar" />
+  <img src="https://avatars.githubusercontent.com/ElMansouri-cpu" width="160" alt="Ghassen Mansouri" />
 </p>
 
-<h1 align="center">Ahoy! I'm Ghassen ⚓</h1>
-<h3 align="center">🧑‍💻 Full-stack Developer · 🏴‍☠️ Tech Pirate · 🍖 Meat Lover</h3>
+<h1 align="center">Ghassen Mansouri</h1>
+
+<h3 align="center">
+Senior Full Stack & React Native Engineer
+</h3>
+
+<p align="center">
+Building scalable SaaS platforms, real-time systems, and production-grade mobile applications.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghassen-mansouri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ghassen.mansouri@proton.me">
+    <img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-mp27xw24q-ghassen-mansouris-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-## 🧭 About Me
+# About Me
 
-I'm a **Full-Stack JavaScript Engineer** from Tunisia with strong experience building analytical and real-time platforms. I’ve worked across startups and product teams to deliver scalable systems, optimized APIs, and beautiful UIs. I thrive on technical challenges and clean architecture, and I'm passionate about building tools that make complex things simple.
+Senior Full Stack & React Native Engineer with 5+ years of experience delivering scalable SaaS platforms, real-time applications, analytics systems, and cross-platform mobile products.
 
----
+I have worked across startups, consulting engagements, and product teams, designing and shipping production-ready solutions from architecture to deployment. My expertise spans frontend engineering, backend systems, cloud-native infrastructure, DevOps automation, and mobile development.
 
-## 🛠️ Currently Building
+### Areas of Focus
 
-I'm deep in the trenches architecting a **multi-tenant warehouse order management system** — a complex beast that’s pushing real-time infrastructure and scalable backend design to the limits.
-
-🚧 **Tech Highlights:**
-
-- ⚛️ **Frontend**: Next.js, React Native (Expo), TailwindCSS  
-- 🧠 **Backend**: NestJS, Supabase, Redis, PostgreSQL, Elasticsearch  
-- 📡 **Infra**: Real-time pub/sub via Socket.IO, tenant-aware APIs, CI/CD pipelines with Docker + GitHub Actions  
-- 📦 **Domain Challenges**: Syncing orders across warehouses, handling distributed stock, and delivering blazing-fast search
-
-> It's not just an app. It's a platform-as-a-service for warehouse ops.
+* SaaS Platforms
+* B2B Marketplaces
+* Real-Time Applications
+* Mobile Apps (iOS & Android)
+* Analytics & Reporting Systems
+* Cloud-Native Architecture
+* API Design & Integrations
+* Performance Optimization
 
 ---
 
-## ⚓ Professional Voyage
+# Tech Stack
 
-### 🚀 Full-Stack Engineer — **Big software corporation**  
-*Tunis, Tunisia | 04/2023 – present*
+### Frontend & Mobile
 
-- Developed an analytics platform with **NestJS**, **Next.js**, and **PostgreSQL**
-- Built real-time data pipelines using **Redis** and **WebSockets**
-- Automated document generation with **Puppeteer**, **Plotly**, and **React**
-- Managed CI/CD pipelines with **Docker Compose**, **GitHub Actions**, and **Portainer**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-### 🏗️ Full-Stack Engineer — **NOMADZ**  
-*Megrine, Tunisia | 09/2020 – 03/2023*
+### Backend
 
-- Created real estate dashboards using **React.js**, improving investor insight
-- Enhanced performance with optimized **Node.js/Express** APIs and **MongoDB**
-- Containerized apps with **Docker**, automated delivery via **GitLab CI/CD**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge\&logo=swagger)
 
----
+### Databases & Search
 
-## 🛠️ My Ship's Gear (Tech Stack)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch)
 
-### Frontend  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?&logo=next.js)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zotero&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+### DevOps & Infrastructure
 
-### Backend & Infra  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?&logo=socketdotio)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?&logo=supabase&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Testing  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge\&logo=sentry)
 
 ---
 
-## 🗃️ Projects
+# Professional Highlights
 
-### LiveShop  
-**React.JS, Tailwind, Redux, Socket.IO, Express, Node-Media-Server, WebRTC, MongoDB**  
-- Built a live e-commerce platform with real-time demos  
-- Created performance-optimized microservices and WebRTC video streaming  
-- Developed reactive frontend and concurrent live interaction backend
+### Full Stack Engineer — Quantech Solution Partners
 
-### SweetHome  
-**React.JS, Tailwind, ReactQuery, Zustand, Express**  
-- Built a booking dashboard synced with BookingSync API  
-- Enabled real estate agents to manage 150+ properties  
-- Delivered dynamic insights through fast, data-driven UI
+* Built a financial analytics platform using NestJS, Next.js, PostgreSQL, and TypeScript.
+* Designed and maintained 20+ production APIs documented with OpenAPI.
+* Reduced API response times by over 60% through Redis caching strategies.
+* Implemented CI/CD pipelines using Docker and GitHub Actions.
+* Developed real-time backtesting infrastructure leveraging WebSockets and event-driven architecture.
 
----
+### Frontend Engineer — Aquillapp
 
-## 🧠 Pirate Code (Values)
+* Developed and scaled a host management SaaS platform.
+* Integrated 15+ third-party APIs supporting business-critical operations.
+* Improved frontend performance, UX consistency, and deployment reliability.
+* Built backend services using Laravel.
 
-- 🏴‍☠️ **Freedom** to build scalable, open platforms  
-- 🔄 **Iteration** over perfection  
-- 🧭 **Navigation** through complexity with clean design patterns  
-- ⚔️ **Execution** with consistency  
+### Full Stack Engineer — NOMADZ
 
----
-
-## 🪙 Bounty Board
-
-| <img src="https://github-readme-stats.vercel.app/api?username=ElMansouri-cpu&show_icons=true&theme=tokyonight" width="48%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMansouri-cpu&layout=compact&theme=tokyonight" width="48%" /> |
-|:--|:--|
+* Delivered BI and real-estate analytics dashboards.
+* Increased backend throughput from ~500 to 2,000+ RPS.
+* Automated deployment workflows with Docker and GitLab CI/CD.
+* Mentored junior developers and contributed to engineering best practices.
 
 ---
 
-## 📬 Message in a Bottle
+# Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin)](https://www.linkedin.com/in/ghassen-mansouri/)  
-[![Email](https://img.shields.io/badge/Email-8B89CC?&logo=protonmail&logoColor=white)](mailto:ghassen.mansouri@proton.me)  
-📍 *Tunis, Tunisia* · 📞 +216 28-128-302
+## ShelfLink
+
+B2B marketplace platform connecting retailers and wholesalers through real-time inventory synchronization.
+
+**Key Achievements**
+
+* Multi-tenant architecture
+* Elasticsearch-powered search
+* Redis caching layer
+* Dockerized microservices
+* Production deployment serving active clients
+
+**Tech Stack**
+
+NestJS • PostgreSQL • Redis • Elasticsearch • Docker • Nginx
 
 ---
 
-<p align="center"><i>"I'm gonna be the King of the Stack!"</i> 🏴‍☠️</p>
+## SweetHome
+
+Property management and reservation analytics platform.
+
+**Key Achievements**
+
+* Reservation management
+* Occupancy analytics
+* Automated reporting
+* High-performance dashboards
+
+**Tech Stack**
+
+React • Node.js • PostgreSQL • Docker
+
+---
+
+## Production Mobile Applications
+
+Cross-platform applications shipped to Google Play and Apple App Store.
+
+**Highlights**
+
+* React Native & Expo
+* OTA Updates
+* EAS Build
+* Google OAuth
+* Push Notifications
+* AdMob Integration
+* Deep Linking
+* Mobile Analytics
+
+---
+
+# Education
+
+### National Engineering Degree in Computer Science
+
+ESPRIT — Tunisia
+
+### Bachelor's Degree in Information Systems
+
+Higher Institute of Computer Science (ISI) — Tunisia
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElMansouri-cpu&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMansouri-cpu&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMansouri-cpu" />
+</p>
+
+---
+
+# Current Focus
+
+* Building scalable B2B SaaS products
+* React Native & Expo applications
+* Real-time architectures
+* Cloud-native backend systems
+* Technical leadership and architecture
+
+---
+
+### Open to Senior Full Stack, React Native, and Technical Lead opportunities.
